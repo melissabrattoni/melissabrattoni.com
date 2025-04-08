@@ -1,0 +1,278 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+img {
+	width:auto;
+	max-width:100%;
+	height:auto;
+}
+.container_01 {
+	background-color: #f7f7f7;
+	width: 1010px;
+	height: auto;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	vertical-align:baseline;
+	padding-top: 1px;
+	padding-bottom: 30px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-width: 0px;
+}
+
+
+.header {
+	height: 90px;
+	width: 930px;
+	border-top-color: #d8d8d8;
+	border-bottom-color: #d8d8d8;
+	margin-top: 29px;
+	margin-right: 40px;
+	margin-bottom: 29px;
+	margin-left: 40px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-style: solid;
+}
+
+
+.title {
+	font-family: 'Great Vibes', cursive;
+	height: 70px;
+	float: left;
+	font-size:36pt;
+	padding-left: 0px;
+	padding-top: 20px;
+	color: #5508a3;
+}
+
+.nav {
+	float:right;
+	font-family: helvetica,arial,sans-serif;
+	font-size:17px;
+	height: 0px;
+	width: 560px;
+	text-align: justify;
+	letter-spacing: 1px;
+	
+}
+
+.navbutton {
+	float:right;
+	padding-top: 57px;
+	padding-bottom: 11px;
+	padding-left: 20px;
+	padding-right: 10px;
+	letter-spacing: -1px;
+	color: #363636;
+}
+
+.main_body {
+	width: auto;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align:left;	
+	font-size:12px;
+	color: #747474;
+	font-weight: normal;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	min-height: 600px;
+	
+}
+
+
+.footer {	
+	min-height: 120px;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align:right;	
+	font-family: helvetica,arial,sans-serif;
+	font-size:14px;
+	letter-spacing: -1px;
+	background-color:#363636;
+	padding-top:10px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom: 0px;
+	border-top:#000;
+	border-bottom-color:#333;
+	border-top: 8px;
+	border-top-width: 8px;
+	border-top-style: solid;
+	border-top-color: #575757;
+	border-bottom: 5px;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #575757;
+	color:#f7f7f7;
+}
+
+.image_01 {
+	width:640px;
+	border-width: 1px;
+	border-color: #d8d8d8;
+	margin-left:auto;
+	margin-right:auto;
+	border-style:solid;
+}
+
+.image_02 {
+	width:308px;
+	height:487px;
+	border-color:#CCC;
+	border-width: 1px;
+	border-color: #d8d8d8;
+	border-style:solid;
+	vertical-align: text-top;
+}
+
+.image_03 {
+	float:right;
+	width:308px;
+	border-color:#CCC;
+	border-width: 1px;
+	border-color: #d8d8d8;
+	border-style:solid;
+}
+
+.button {
+	float:right;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 1.8;
+	color:#FFF;
+	background-color:#5508a3;
+	clear:both;
+	
+}
+
+.download_container {
+	width: auto;
+	height: 50px;
+}
+
+ 
+.image_wrapper {
+}
+
+
+.img {
+	border-color: #fff;
+	border-width: 4px;
+	border-style:solid;
+
+}
+
+.text {
+	overflow:auto;
+	float:right;
+		
+}
+
+.social-container {
+	margin-top:15px;
+	width:auto;
+	height:40px;
+
+}
+
+.social-links {
+	display: inline-block;
+	width: 32px;
+	height: 31px;
+	margin-top: 40px;
+	margin-left: 3px;
+	background: transparent;
+}
+
+
+.galleria { 
+	width:800px; 
+	height:600px; 
+	background:#f7f7f7;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.contact_form {
+	width:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.contact_field {
+	width:45px;
+	border: 1px;
+	border-color: #dbdbdb;
+	border-style:solid;
+	padding-top: 3px;
+	padding-bottom:3px;
+	padding-left: 6px;
+	padding-right: 6px;
+	
+}
+
+.contact_links	{
+	font-size:16px;
+	text-decoration:none;
+	
+}
+
+p {
+	
+}
+
+
+div .button:hover {
+	background-color:#777777;
+}
+
+a:link {
+	color: #363636;
+	text-decoration:none;
+}      /* unvisited link */
+
+a:visited {
+	color: #363636;
+	text-decoration:none;
+}  /* visited link */
+
+a:hover {
+	color:#5508a3;
+	text-decoration:none;
+}  /* mouse over link */
+
+a:active {
+	color:#5508a3;
+	text-decoration:none;
+}  	/* selected link */
+
+h1 {
+	font-size: 48px; 
+	margin: 0;
+	font-weight:normal; }
+	
+}
+
+h2 {
+	font-size:18px;
+	font-weight:300;
+}
